@@ -1,2 +1,2 @@
 # impacta-calculadoraIMC
-calculadora imc utilizando HTML, CSS e Javascript
+Atividade de Calculadora de IMC utilizando HTML, CSS e Javascript para a matéria de APIs & Web Applications
